@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestWebViewAndIntent</string>
+    <string name="title_activity_seceond">SeceondActivity</string>
+</resources>
